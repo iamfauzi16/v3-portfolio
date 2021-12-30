@@ -1,6 +1,7 @@
 import Image from "next/image"
 import iam from '../../public/mobile-login.png'
 import Link from 'next/link'
+import React from 'react'
 const Hero = () => {
   return(
     <div className="flex container lg:container justify-start flex-col items-center flex-col-reverse lg:flex-row  mt-4">
