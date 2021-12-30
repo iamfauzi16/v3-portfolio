@@ -12,6 +12,7 @@ class MyDocument extends Document {
         <Head>
           <link rel="icon" type="image/png" sizes="32x32" href="/fav.png" />
           <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Questrial&display=swap" rel="stylesheet"/>
+          <title>Welcome to my Portfolio</title>
         </Head>
         <body>
           <Main />
