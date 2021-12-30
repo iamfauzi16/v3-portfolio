@@ -1,3 +1,6 @@
+
+import React from "react"
+
 import MobileApp from '../../public/mobile-login.png'
 const Description = () => {
   return(
