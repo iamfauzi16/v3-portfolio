@@ -46,7 +46,7 @@ const Description = () => {
             </svg>
           </div>
           <p className="font-body font-bold text-lg text-purple-700">Feedback from client</p>
-          <p className="font-body text-md text-gray-500">Workers will get input including revisions and assessments of workers' projects</p>
+          <p className="font-body text-md text-gray-500">Workers will get input including revisions and assessments of workers projects</p>
         </div>
         
       </div>
