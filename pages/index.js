@@ -15,7 +15,7 @@ export default function Home({data}) {
 }
 
 export async function getStaticProps(context) {
-  const res = await fetch(`https://api.dribbble.com/v2/user/shots?access_token=${process.env.API_KEY}`)
+  const res = await fetch(`https://api.dribbble.com/v2/user/shots?access_token=06735c05a7aaf78429098451adb7585f6e7b7a99e6414b2382b418574ef27000`)
   const data = await res.json()
 
   if (!data) {
